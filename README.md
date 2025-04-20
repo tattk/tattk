@@ -2,7 +2,7 @@
 
 <!--**tattk/tattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - [x] 工業系高専を卒業後，自動車部品メーカーへ就職．  
-  - 海外在住１年(AUS)，設計業務に5年，原価企画業務に２年従事．
+  - 海外在住1年(AUS)，設計業務に5年，原価企画業務に2年従事．
 - [x] 陸上競技へフルbetすべく退職．  
   - 怪我に苦しみながら競技を継続し，約2年半パートアルバイトで生計を立てる生活を続ける．  
 - [x] 時給を上げるため，配達ドライバーとしてフルタイムで働き始める．
