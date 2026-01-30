@@ -1,6 +1,7 @@
-## History
+<!--## History-->
 
 <!--**tattk/tattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--
 - [x] 工業系高専を卒業後，自動車部品メーカーへ就職．  
   - 海外在住1年(AUS)，設計業務に5年，原価企画業務に2年従事．
 - [x] 陸上競技へフルbetすべく退職．  
@@ -8,7 +9,7 @@
 - [x] 時給を上げるため，配達ドライバーとしてフルタイムで働き始める．
   - 職場高齢化による若手扱いで，〜30kgのお米x3をエレベータなしアパート4階に配達するなど，重量級荷物の配達をこなす．  
 - [ ] **2025.04〜 理数系分野へ再度挑戦するべくSESエンジニアへ転身．**
-
+-->
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,py,notion,vscode)](https://skillicons.dev)
 
